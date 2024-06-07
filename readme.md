@@ -10,7 +10,7 @@ We are committed to open science and knowledge sharing. As such, we plan to rele
 
 We appreciate your interest and understanding in this matter and look forward to contributing to the community with our research findings and associated code in the near future.
 
-If you wish to verify the results, the weights can be donwloaded from [here]([myLib/README.md](https://drive.google.com/drive/folders/1Hn8HIf3prh_i62srPS8batwklcupHVks?))
+If you wish to verify the results, the weights can be donwloaded from [here](https://drive.google.com/drive/folders/1Hn8HIf3prh_i62srPS8batwklcupHVks?)
 
 Stay tuned for updates!
 
