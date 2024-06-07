@@ -1,0 +1,23 @@
+
+
+train: /home/zsn/abd/BW3/datasets/RTTS_AUG2/images/train
+val: /home/zsn/abd/BW3/datasets/RTTS_AUG2/images/test
+
+# Specify the label files (pattern) for training and validation datasets
+train_label: /home/zsn/abd/BW3/datasets/RTTS_AUG2/labels/train/*.txt
+val_label: /home/zsn/abd/BW3/datasets/RTTS_AUG2/labels/test/*.txt
+
+ 
+nc: 5  # During Traing, the class names were given wrong (Got them from a previous paper). However, it donst affest the results.
+names: 
+  0: Bicycle 
+  1: Bus
+  2: Car 
+  3: Motorcycle
+  4: Person
+
+
+# Additional fields for output directories
+output: yolo/results/yolo8
+graphs: yolo/results/yolo8
+csv: yolo/results/yolo8
